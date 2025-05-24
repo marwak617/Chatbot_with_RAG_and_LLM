@@ -1,0 +1,11 @@
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+
+groq api key:
+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

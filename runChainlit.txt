@@ -1,0 +1,1 @@
+python -m chainlit run model_chatbot.py
