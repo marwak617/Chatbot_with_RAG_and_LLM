@@ -35,7 +35,7 @@ instead of loading the original model  from llama and using it directly"""
 
 def load_llm():
     return ChatGroq(
-        groq_api_key="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",
+        groq_api_key="your groq key",
         model_name="llama3-70b-8192",  # or llama3-8b-8192, gemma-7b-it
         temperature=0.5,
         max_tokens=512
